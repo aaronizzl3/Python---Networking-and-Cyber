@@ -1,1 +1,3 @@
 # Placeholder
+
+myString = "String Data"
